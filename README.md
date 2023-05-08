@@ -1,10 +1,11 @@
 # Data Analyst Portfolio Project Repository
 
-### 1. COVID PORTFOLIO PROJECT
+### 1. COVID 19 DATA EXPLORATION PROJECT
 
 My first project is using SQL to do some data exploration, then creating visualizations in Tableau.  
-Link to dashboard: https://public.tableau.com/app/profile/hanh.nguyen.minh/viz/CovidDashboard_16826033095130/Dashboard1.  
+Link to dashboards: https://public.tableau.com/app/profile/hanh.nguyen.minh/viz/CovidDashboard_16826033095130/Dashboard1.  
 Link to dataset: https://ourworldindata.org/covid-deaths
+
 
 ### 2. DATA CLEANING IN SQL 
 Importing and cleaning the dataset NashvilleHousing using SQL:
@@ -12,4 +13,8 @@ Importing and cleaning the dataset NashvilleHousing using SQL:
 - Populating null data
 - Breaking data into individual columns
 - Remove duplicates  
-...
+
+
+### 3. MOVIE CORRELATION WITH PYTHON  
+Working with Python to look at what variables effect the gross revenue from movies.  
+Link to dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies
