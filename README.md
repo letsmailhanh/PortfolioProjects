@@ -25,5 +25,5 @@ Link to dataset: http://insideairbnb.com/get-the-data/
 Link to the dashboard: https://public.tableau.com/app/profile/hanh.nguyen.minh/viz/AirBnBinSingaporeDashboard/Dashboard1
 
 ### 5. POWER BI DATA PROFESSION SURVEY BREAKDOWN
-Build a Power BI dashboard to offer insights into the data job market, displaying average salaries by job title, perceived difficulty of breaking into the field, and preferred programming languages.
+Build a Power BI dashboard to offer insights into the data job market, displaying average salaries by job title, perceived difficulty of breaking into the field, and preferred programming languages.  
 Download the dashboard: https://github.com/letsmailhanh/PortfolioProjects/blob/main/Data%20Profession%20Survey%20Breakdown%20PowerBI.pbix
