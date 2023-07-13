@@ -16,10 +16,14 @@ Importing and cleaning the dataset NashvilleHousing using SQL:
 
 
 ### 3. MOVIE CORRELATION WITH PYTHON  
-Working with Python to look at what variables effect the gross revenue from movies.  
+Working with Python to look at what variables affect movie gross revenue.  
 Link to dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ### 4. AIRBNB IN SINGAPORE DASHBOARD
 Developed a Tableau dashboard for Airbnb in Singapore, showcasing price per bedroom, neighborhood distribution, room type count, and annual revenue to provide concise insights into the market.  
 Link to dataset: http://insideairbnb.com/get-the-data/  
-Link to dashboard: https://public.tableau.com/app/profile/hanh.nguyen.minh/viz/AirBnBinSingaporeDashboard/Dashboard1
+Link to the dashboard: https://public.tableau.com/app/profile/hanh.nguyen.minh/viz/AirBnBinSingaporeDashboard/Dashboard1
+
+### 5. POWER BI DATA PROFESSION SURVEY BREAKDOWN
+Build a Power BI dashboard to offer insights into the data job market, displaying average salaries by job title, perceived difficulty of breaking into the field, and preferred programming languages.
+Download the dashboard: https://github.com/letsmailhanh/PortfolioProjects/blob/main/Data%20Profession%20Survey%20Breakdown%20PowerBI.pbix
